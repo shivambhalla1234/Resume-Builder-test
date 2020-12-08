@@ -1,0 +1,13 @@
+.Root {
+    .navBase {
+        position: fixed;
+        left: 50%;
+        top: 4%;
+        z-index: 9999;
+        transform: translate(-50%, 0%);
+        button {
+            width: 90px;
+            font-size: 11px;
+        }
+    }
+}
